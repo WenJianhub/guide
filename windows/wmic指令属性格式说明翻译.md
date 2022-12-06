@@ -1,3 +1,4 @@
+### wmic 指令属性说明
 BankLabel                         银行标签
 Capacity                          容量
 DataWidth                         数据宽度
