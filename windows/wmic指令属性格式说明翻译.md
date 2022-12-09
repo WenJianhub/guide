@@ -1,29 +1,30 @@
 ### wmic 指令属性说明
-BankLabel                         银行标签
-Capacity                          容量
-DataWidth                         数据宽度
-Description                       描述
-DeviceLocator                     设备定位器
-FormFactor                        构成因素
-HotSwappable                      支持热插拔
-InstallDate                       安装日期
-InterleaveDataDepth               交错数据深度
-InterleavePosition                交错位置
-Manufacturer                      制造商
-MemoryType                        内存类型
-Model                             模型
-Name                              姓名
-OtherIdentifyingInfo              其他识别信息
-PartNumber                        零件号
-PositionInRow                     PositionInRow
-PoweredOn                         开机
-Removable                         可拆卸的
-Replaceable                       可更换
-SKU                               库存单位
-SerialNumber                      序列号
-Speed                             速度
-Status                            地位
-Tag                               标签
-TotalWidth                        总宽度
-TypeDetail                        类型详情
-Version                           版本
+```
+1. BankLabel                         银行标
+2. Capacity                          容量
+3. DataWidth                         数据宽度
+4. Description                       描述
+5. DeviceLocator                     设备定位器
+6. FormFactor                        构成因素
+7. HotSwappable                      支持热插拔
+8. InstallDate                       安装日期
+9. InterleaveDataDepth               交错数据深度
+10. InterleavePosition                交错位置
+11. Manufacturer                      制造商
+12. MemoryType                        内存类型
+13. Model                             模型
+14. Name                              姓名
+15. OtherIdentifyingInfo              其他识别信息
+16. PartNumber                        零件号
+17. PositionInRow                     PositionInRow
+18. PoweredOn                         开机
+19. Removable                         可拆卸的
+20. Replaceable                       可更换
+21. SKU                               库存单位
+22. SerialNumber                      序列号
+23. Speed                             速度
+24. Status                            地位
+25. Tag                               标签
+26. TotalWidth                        总宽度
+27. TypeDetail                        类型详情
+28. Version                           版本
